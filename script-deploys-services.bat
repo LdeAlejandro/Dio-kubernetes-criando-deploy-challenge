@@ -1,6 +1,6 @@
 echo Iniciando...
 
-call animation.bat "Criando serviços no cluster"
+call animation.bat "Criando servicos no cluster"
 
 kubectl apply -f ./services.yml
 

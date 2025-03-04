@@ -5,7 +5,7 @@ metadata:
   labels:
     type: mysql-data
 spec:
-  storageClassName: manual
+  storageClassName: standard-rwo
   capacity:
     storage: 100Mi
   accessModes:
