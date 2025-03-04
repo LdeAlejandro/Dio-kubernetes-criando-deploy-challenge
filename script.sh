@@ -15,7 +15,7 @@ fi
 
 echo "Iniciando..."
 
-typewriter "Cirando imagen"
+typewriter "Criando imagen"
 
 # Criação de imagens Docker com base no Dockerfile
 docker build -t ldealejandro/k8-challlenge-backend:1.0 backend/.
